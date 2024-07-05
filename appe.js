@@ -65,6 +65,7 @@
 
 
 // 4-masala
+
 // function Mson(num) {
 //     if(num <= 1){
 //         return false;
@@ -89,3 +90,59 @@
 // }else {
 //     console.log(" son kiriting");
 // }
+
+
+
+
+
+
+
+
+
+
+// 5-masala
+
+// const inputArray = [1, 2, 3, 4, 5];
+// const reversedArray = [];
+// for (let i = inputArray.length - 1; i >= 0; i--) {
+//     reversedArray.push(inputArray[i]);
+// }
+//
+// console.log('Teskari qilingan array:', reversedArray);
+
+
+
+
+
+
+
+// 6-masala
+
+// function tubson(num) {
+//     if (num <= 1) {
+// return false;
+//     }
+//  if (num === 2) {
+//  return true;
+//     }
+//  if (num % 2 === 0) {
+//  return false;
+//     }
+//  for (let i = 3; i <= num / 2; i += 2) {
+//   if (num % i === 0) {
+//             return false;
+//         }}
+//     return true;
+// }
+// const array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+// const primeNumbers = [];
+// for (let i = 0; i < array.length; i++) {
+//     if (tubson(array[i])) {
+//         primeNumbers.push(array[i]);
+//     }
+// }
+// console.log('Tub sonlar:', primeNumbers);
+
+
+// 7-masala
+// Tushunmadim
